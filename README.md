@@ -12,7 +12,7 @@ Também possuo experiência em **Health Tech**, em uma das **maiores do Brasil**
 
 **Minhas competências técnicas incluem:**
 
-* **Linguagens**: Python, TypeScript.
+* **Linguagens**: Python, JavaScript e TypeScript.
 * **Frontend**: React.js.
 * **Backend**: Node.js, Express.js, com experiência em REST APIs.
 * **Banco de Dados**: PostgreSQL, MySQL.
