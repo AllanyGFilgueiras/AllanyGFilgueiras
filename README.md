@@ -4,7 +4,7 @@ Sou uma **Engenheira de Software** com **3 anos de experiência** no mundo do de
 
 Minha especialidade é criar valor de negócio e entender o que faz um produto brilhar. Para isso, adoro conversar com usuários, entender as suas "dores" e garantir que o código que escrevo resolva problemas de verdade!
 
-### 🛒 Minha Vibe Tech:
+### Minha Vibe Tech:
 
 Minha jornada inclui a construção de sistemas críticos em **e-commerce de larga escala**, atuando no **Mercado Livre**, o **maior e-commerce do Brasil**.
 
